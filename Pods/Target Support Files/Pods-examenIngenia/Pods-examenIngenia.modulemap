@@ -1,0 +1,6 @@
+framework module Pods_examenIngenia {
+  umbrella header "Pods-examenIngenia-umbrella.h"
+
+  export *
+  module * { export * }
+}
